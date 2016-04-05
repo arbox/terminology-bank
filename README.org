@@ -2,6 +2,11 @@
 
 Terminology across multiple languages how it is used in our translations.
 
+* To be done [0/3]
+- [ ] Implement CSV export
+- [ ] Implement TMX export
+- [ ] Implement XLIFF export
+
 * Ruby and Rails
 | EN                  | RU                              | DE   | Comment               |
 |---------------------+---------------------------------+------+-----------------------|
